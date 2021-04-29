@@ -13,18 +13,18 @@ Packages need installing before running the APP: `request`, `json`, `sqlite3`, `
 
 ## 2. Code Structure
 
-Part 1: Accessing Data via The Movie Database (TMDb) API 
+### Part 1: Accessing Data via The Movie Database (TMDb) API 
 
 Cashing, request link building, API request, data stored as json format
 
-Part 2: Database Building
+### Part 2: Database Building
 
 Building SQL tables by python code, populate SQL tables with cached data 
 
-Part 3: Data Visualization with `Plotly` 
+### Part 3: Data Visualization with `Plotly` 
 Embedded in interactive interface, results showing in a browser
 
-Part 4 Interactive Interface Building
+### Part 4 Interactive Interface Building
 
 1. Search keywords: three sorts of keywords: movie rating (e.g 8, 7.8); 
    movie release year (e.g 2019); movie keywords (e.g harry potter, case-insensitive) 
