@@ -1,7 +1,7 @@
 # SI507 Final Project Intro
 
 
-##1. Preparation
+## 1. Preparation
 
 Database web: https://www.themoviedb.org/?language=en-US
 
@@ -11,7 +11,7 @@ Packages need installing before running the APP: `request`, `json`, `sqlite3`, `
 
 
 
-##2. Code Structure
+## 2. Code Structure
 
 Part 1: Accessing Data via The Movie Database (TMDb) API 
 
@@ -39,7 +39,8 @@ Part 4 Interactive Interface Building
 4. Choose the searched movie to see detailed info: enter the index of the searched results
 
 
-##3. Main Movie Database Features
+
+## 3. Main Movie Database Features
 
 `title`: movie name in English
 
